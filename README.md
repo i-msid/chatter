@@ -1,7 +1,7 @@
 # Chatter App
  
 A chat application like discord where different users can join various chatrooms and hang out. This application also has additional feature of sharing location.
-
+- Deployed live chat application: [chatter :hatched_chick:](https://lit-hamlet-21421.herokuapp.com/)
 ## Dependencies
 The project is made using NodeJS, Express js, and socket.io.
 
